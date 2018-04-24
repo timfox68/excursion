@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 42px;
+}
+
+.dwnload a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+video {
+  object-fit: contain;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
+}
+
+footer {
+  text-align: right;
+}
